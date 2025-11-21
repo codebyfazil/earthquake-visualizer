@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 🌍 Earthquake Tracker
 
 
@@ -120,6 +118,3 @@ This project is open source under the **MIT License**.
 
 ----------
 
-=======
-# earthquake-visualizer
->>>>>>> 8be0b313bc812b6b465c3553b3abb520cd3422af
